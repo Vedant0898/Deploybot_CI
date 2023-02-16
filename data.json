@@ -1,0 +1,11 @@
+{
+    "repo": "Actions-test",
+    "python": "true",
+    "golang": "false",
+    "node": "true",
+    "ts": "false",
+    "flutter": "false",
+    "dart": "false",
+    "docker": "true",
+    "shell": "true"
+}
